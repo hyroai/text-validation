@@ -1,1 +1,5 @@
-module.exports = () => true;
+function validate() {
+    return true;
+}
+
+module.exports = validate;
