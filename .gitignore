@@ -105,3 +105,4 @@ dist
 
 # Editors
 .idea/
+__pycache__/

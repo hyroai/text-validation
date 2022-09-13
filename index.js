@@ -1,5 +1,7 @@
-function validate() {
-    return true;
+function validate_response(text) {
+    return text && true;
 }
 
-module.exports = validate;
+module.exports = {
+    validate_response
+};
